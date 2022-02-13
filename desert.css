@@ -120,6 +120,8 @@ a {
     margin-bottom: 2rem;
     display: block;
     justify-content: center;
+    width: auto;
+    height: auto;
   }
   .about,
   .tab-btn,
